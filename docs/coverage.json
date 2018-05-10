@@ -1,0 +1,57 @@
+{
+  "coverage": "53.62%",
+  "expectCount": 69,
+  "actualCount": 37,
+  "files": {
+    "src/Animation.js": {
+      "expectCount": 7,
+      "actualCount": 2,
+      "undocumentLines": [
+        9,
+        11,
+        25,
+        57,
+        58
+      ]
+    },
+    "src/Label.js": {
+      "expectCount": 10,
+      "actualCount": 4,
+      "undocumentLines": [
+        6,
+        13,
+        17,
+        18,
+        19,
+        23
+      ]
+    },
+    "src/View.js": {
+      "expectCount": 52,
+      "actualCount": 31,
+      "undocumentLines": [
+        8,
+        40,
+        41,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        111,
+        115,
+        119,
+        123,
+        127,
+        128,
+        129,
+        130,
+        131,
+        135,
+        205
+      ]
+    }
+  }
+}

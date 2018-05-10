@@ -1,0 +1,1820 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/Animation.js",
+    "content": "//\r\n// Helper functions for animating views\r\n\r\nimport TWEEN from '@tweenjs/tween.js'\r\n\r\n// Fix TWEEN's attempt to use process.hrtime()\r\nTWEEN.now = Date.now\r\n\r\nclass Animation {\r\n\r\n    constructor() {\r\n\r\n\r\n\r\n    }\r\n\r\n    /** @private Starts or stops the update loop, depending if there are any running animations */\r\n    checkLoop() {\r\n\r\n        // Check if loop should start\r\n        if (!this.loopRunning && TWEEN.getAll().length > 0) {\r\n\r\n            // Start loop\r\n            Script.update.connect(TWEEN.update)\r\n            this.loopRunning = true\r\n            console.log(\"TWEEN loop started\")\r\n\r\n        } else if (this.loopRunning && TWEEN.getAll().length == 0) {\r\n\r\n            // Start loop\r\n            Script.update.disconnect(TWEEN.update)\r\n            this.loopRunning = false\r\n            console.log(\"TWEEN loop stopped\")\r\n\r\n        }\r\n\r\n    }\r\n\r\n    /** Create an animation on a view */\r\n    animate(view, to, easing = TWEEN.Easing.Quadratic.InOut) {\r\n\r\n        // Create tween\r\n        var tween = new TWEEN.Tween(view).to(to).onComplete(e => {\r\n\r\n            // Stop loop if needed\r\n            this.checkLoop()\r\n\r\n        }).start()\r\n\r\n        // Start tween update loop if needed\r\n        this.checkLoop()\r\n\r\n    }\r\n\r\n}\r\n\r\nvar cls = new Animation()\r\nexport var animate = cls.animate.bind(cls)\r\n",
+    "static": true,
+    "longname": "C:/Users/jjv360/Personal/Interesting Stuff/High Fidelity/HF UI/src/Animation.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "Animation",
+    "memberof": "src/Animation.js",
+    "static": true,
+    "longname": "src/Animation.js~Animation",
+    "access": "public",
+    "export": false,
+    "importPath": "hf-ui/src/Animation.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "interface": false,
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/Animation.js~Animation",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Animation.js~Animation#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "method",
+    "name": "checkLoop",
+    "memberof": "src/Animation.js~Animation",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Animation.js~Animation#checkLoop",
+    "access": "private",
+    "description": null,
+    "lineNumber": 18,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 52,
+    "kind": "member",
+    "name": "loopRunning",
+    "memberof": "src/Animation.js~Animation",
+    "static": false,
+    "longname": "src/Animation.js~Animation#loopRunning",
+    "access": "public",
+    "description": null,
+    "lineNumber": 25,
+    "undocument": true,
+    "type": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "method",
+    "name": "animate",
+    "memberof": "src/Animation.js~Animation",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Animation.js~Animation#animate",
+    "access": "public",
+    "description": "Create an animation on a view",
+    "lineNumber": 40,
+    "params": [
+      {
+        "name": "view",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "to",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "easing",
+        "optional": true,
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "cls",
+    "memberof": "src/Animation.js",
+    "static": true,
+    "longname": "src/Animation.js~cls",
+    "access": "public",
+    "export": false,
+    "importPath": "hf-ui/src/Animation.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 57,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/Animation.js~Animation"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "variable",
+    "name": "animate",
+    "memberof": "src/Animation.js",
+    "static": true,
+    "longname": "src/Animation.js~animate",
+    "access": "public",
+    "export": true,
+    "importPath": "hf-ui/src/Animation.js",
+    "importStyle": "{animate}",
+    "description": null,
+    "lineNumber": 58,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "//\r\n// Export classes\r\n\r\nexport { default as View } from './View'\r\nexport { default as Label } from './Label'\r\nexport { animate } from './Animation'\r\n",
+    "static": true,
+    "longname": "C:/Users/jjv360/Personal/Interesting Stuff/High Fidelity/HF UI/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "src/Label.js",
+    "content": "//\r\n// Represents a label component\r\n\r\nimport View from './View'\r\n\r\nexport default class Label extends View {\r\n\r\n    /** The High Fidelity overlay type */\r\n    get type() { return \"text\" }\r\n\r\n    /** Text shown in the label */\r\n    get text() { return this.getProperty(\"text\") || \"\" }\r\n    set text(v) { this.setProperty(\"text\", v) }\r\n\r\n    /** Text margins */\r\n    get leftMargin() { return this.getProperty(\"leftMargin\") || 0 }\r\n    set leftMargin(v) { this.setProperty(\"leftMargin\", v) }\r\n    get topMargin() { return this.getProperty(\"topMargin\") || 0 }\r\n    set topMargin(v) { this.setProperty(\"topMargin\", v) }\r\n\r\n    /** Font information */\r\n    get font() { return this.getProperty(\"font\") || { size: 17 } }\r\n    set font(v) { this.setProperty(\"font\", v) }\r\n\r\n}\r\n",
+    "static": true,
+    "longname": "C:/Users/jjv360/Personal/Interesting Stuff/High Fidelity/HF UI/src/Label.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "class",
+    "name": "Label",
+    "memberof": "src/Label.js",
+    "static": true,
+    "longname": "src/Label.js~Label",
+    "access": "public",
+    "export": true,
+    "importPath": "hf-ui/src/Label.js",
+    "importStyle": "Label",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/View.js~View"
+    ]
+  },
+  {
+    "__docId__": 60,
+    "kind": "get",
+    "name": "type",
+    "memberof": "src/Label.js~Label",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Label.js~Label#type",
+    "access": "public",
+    "description": "The High Fidelity overlay type",
+    "lineNumber": 9,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "get",
+    "name": "text",
+    "memberof": "src/Label.js~Label",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Label.js~Label#text",
+    "access": "public",
+    "description": "Text shown in the label",
+    "lineNumber": 12,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "set",
+    "name": "text",
+    "memberof": "src/Label.js~Label",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Label.js~Label#text",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true
+  },
+  {
+    "__docId__": 63,
+    "kind": "get",
+    "name": "leftMargin",
+    "memberof": "src/Label.js~Label",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Label.js~Label#leftMargin",
+    "access": "public",
+    "description": "Text margins",
+    "lineNumber": 16,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "set",
+    "name": "leftMargin",
+    "memberof": "src/Label.js~Label",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Label.js~Label#leftMargin",
+    "access": "public",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "get",
+    "name": "topMargin",
+    "memberof": "src/Label.js~Label",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Label.js~Label#topMargin",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "set",
+    "name": "topMargin",
+    "memberof": "src/Label.js~Label",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Label.js~Label#topMargin",
+    "access": "public",
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true
+  },
+  {
+    "__docId__": 67,
+    "kind": "get",
+    "name": "font",
+    "memberof": "src/Label.js~Label",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Label.js~Label#font",
+    "access": "public",
+    "description": "Font information",
+    "lineNumber": 22,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "set",
+    "name": "font",
+    "memberof": "src/Label.js~Label",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Label.js~Label#font",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true
+  },
+  {
+    "__docId__": 69,
+    "kind": "file",
+    "name": "src/View.js",
+    "content": "//\r\n// Represents a plain 2D overlay element\r\n//\r\n// Useful code locations:\r\n// - Overlay types: https://github.com/highfidelity/hifi/blob/8e214d8ee86f4ea11c5494f0159aa1d45523e895/interface/src/ui/overlays/Overlays.cpp#L178\r\n// - Overlay properties: https://github.com/highfidelity/hifi/blob/8e214d8ee86f4ea11c5494f0159aa1d45523e895/interface/src/ui/overlays/Overlay.cpp#L58\r\n\r\nexport default class View {\r\n\r\n    /** The High Fidelity overlay type. */\r\n    get type() { return \"text\" }\r\n\r\n    /** Constructor */\r\n    constructor() {\r\n\r\n        /** @private Cached overlay properties */\r\n        this.options = {\r\n\r\n            /** Position */\r\n            x: 0,\r\n            y: 0,\r\n            width: 100,\r\n            height: 100,\r\n\r\n            /** Background color */\r\n            backgroundAlpha: 0,\r\n            backgroundColor: {\r\n                red: 0,\r\n                green: 0,\r\n                blue: 0\r\n            },\r\n\r\n            /** Visibility */\r\n            visible: true,\r\n            alpha: 1.0,\r\n\r\n        }\r\n\r\n        /** @private Local coordinates relative to parent view */\r\n        this._x = 0\r\n        this._y = 0\r\n\r\n        /** Child views */\r\n        this.subviews = []\r\n\r\n        /** The parent view */\r\n        this.parentView = null\r\n\r\n        /** @private The user's stored value for the `visible` property. When a\r\n         *  view is a subview of another, and that other view is removed, we\r\n         *  remove all child Overlays as well. This determines wether the view should\r\n         *  be recreated when the parent becomes visible again. */\r\n        this.shouldBeVisible = undefined\r\n\r\n    }\r\n\r\n    /** @private Get overlay property */\r\n    getProperty(name) {\r\n        return this.options[name]\r\n    }\r\n\r\n    /** @private Set overlay property */\r\n    setProperty(name, value) {\r\n\r\n        // Set cached value\r\n        this.options[name] = value\r\n\r\n        // Edit overlay if shown\r\n        if (this._overlay) {\r\n            var changes = {}\r\n            changes[name] = value\r\n            Overlays.editOverlay(this._overlay, changes)\r\n        }\r\n\r\n    }\r\n\r\n    /** Layout */\r\n    get x() { return this._x }\r\n    get y() { return this._y }\r\n    get width() { return this.getProperty(\"width\") }\r\n    get height() { return this.getProperty(\"height\") }\r\n    set x(v) { this._x = v ; this.layout() }\r\n    set y(v) { this._y = v ; this.layout() }\r\n    set width(v) { this.setProperty(\"width\", v) ; this.layout() }\r\n    set height(v) { this.setProperty(\"height\", v) ; this.layout() }\r\n\r\n    /** @private Get offset to use to be relative to the parent. NOTE: What's the point of parenting? Am I doing something wrong? */\r\n    get parentOffsetX() {\r\n        var offset = 0\r\n        var parent = this.parentView\r\n        while (parent) {\r\n            offset += parent._x\r\n            parent = parent.parentView\r\n        }\r\n        return offset\r\n    }\r\n\r\n    /** @private Get offset to use to be relative to the parent. */\r\n    get parentOffsetY() {\r\n        var offset = 0\r\n        var parent = this.parentView\r\n        while (parent) {\r\n            offset += parent._y\r\n            parent = parent.parentView\r\n        }\r\n        return offset\r\n    }\r\n\r\n    /** Background opacity */\r\n    get backgroundAlpha() { return this.getProperty(\"backgroundAlpha\") }\r\n    set backgroundAlpha(v) { this.setProperty(\"backgroundAlpha\", v) }\r\n\r\n    /** Background color */\r\n    get backgroundColor() { return this.getProperty(\"backgroundColor\") }\r\n    set backgroundColor(v) { this.setProperty(\"backgroundColor\", v) }\r\n\r\n    /** Foreground color */\r\n    get color() { return this.getProperty(\"color\") || { red: 0, green: 0, blue: 0 } }\r\n    set color(v) { this.setProperty(\"color\", v) }\r\n\r\n    /** Opacity of entire element */\r\n    get alpha() { return this.getProperty(\"alpha\") || 0 }\r\n    set alpha(v) { this.setProperty(\"alpha\", v) }\r\n\r\n    /** Border */\r\n    get borderWidth() { return this.getProperty(\"borderWidth\") || 0 }\r\n    set borderWidth(v) { this.setProperty(\"borderWidth\", v) }\r\n    get borderAlpha() { return this.getProperty(\"borderAlpha\") || 0 }\r\n    set borderAlpha(v) { this.setProperty(\"borderAlpha\", v) }\r\n    get borderColor() { return this.getProperty(\"borderColor\") || { red: 0, green: 0, blue: 0 } }\r\n    set borderColor(v) { this.setProperty(\"borderColor\", v) }\r\n\r\n    /** Corner radius */\r\n    get radius() { return this.getProperty(\"radius\") || 0 }\r\n    set radius(v) { this.setProperty(\"radius\", v) }\r\n\r\n    /** Shows the overlay */\r\n    show() {\r\n\r\n        // Check if shown\r\n        if (this.shouldBeVisible)\r\n            return\r\n\r\n        // Show overlay\r\n        this.shouldBeVisible = true\r\n        this.updateOverlayVisibility()\r\n\r\n    }\r\n\r\n    /** Remove overlay */\r\n    hide() {\r\n\r\n        // Check if hidden\r\n        if (!this.shouldBeVisible)\r\n            return\r\n\r\n        // Remove overlay\r\n        this.shouldBeVisible = false\r\n        this.updateOverlayVisibility()\r\n\r\n    }\r\n\r\n    /** Remove overlay */\r\n    close() {\r\n        this.hide()\r\n    }\r\n\r\n    /** Remove overlay */\r\n    remove() {\r\n        this.hide()\r\n    }\r\n\r\n    /** True if the overlay is visible */\r\n    get visible() {\r\n        return this.shouldBeVisible\r\n    }\r\n\r\n    /** Show or hide the overlay */\r\n    set visible(v) {\r\n        v ? this.show() : this.hide()\r\n    }\r\n\r\n    /** @private True if all views in the view heirarchy are visible (have valid Overlays) */\r\n    get overlayShouldBeVisible() {\r\n\r\n        // If the user has hidden us, don't show the overlay\r\n        if (!this.shouldBeVisible) return false\r\n\r\n        // If our parent view has no overlay, don't show the overlay\r\n        if (this.parentView) return !!this.parentView._overlay\r\n\r\n        // All good, create our overlay\r\n        return true\r\n\r\n    }\r\n\r\n    /** @private Called when the parent view's overlay state changes */\r\n    updateOverlayVisibility() {\r\n\r\n        // Check if we need to create our overlay\r\n        if (this.overlayShouldBeVisible && !this._overlay) {\r\n\r\n            // Create overlay\r\n            this.options.parentID = this.parentView && this.parentView._overlay || null\r\n            this._overlay = Overlays.addOverlay(this.type, this.options)\r\n\r\n        } else if (!this.overlayShouldBeVisible && this._overlay) {\r\n\r\n            // Overlay should be removed\r\n            Overlays.deleteOverlay(this._overlay)\r\n            this._overlay = null\r\n\r\n        }\r\n\r\n        // Update child visibility\r\n        for (var child of this.subviews)\r\n            child.updateOverlayVisibility()\r\n\r\n    }\r\n\r\n    /** Add a subview */\r\n    addSubview(subview) {\r\n\r\n        // Notify\r\n        subview.willAddToView(this)\r\n\r\n        // If the user hasn't explicitly set the visible property yet, make it visible\r\n        if (typeof subview.shouldBeVisible == \"undefined\")\r\n            subview.visible = true\r\n\r\n        // Set overlay parent ID, if our overlay has been created already\r\n        if (this._overlay)\r\n            subview.setProperty(\"parentID\", this._overlay)\r\n\r\n        // Add child\r\n        this.subviews.push(subview)\r\n        subview.parentView = this\r\n        subview.updateOverlayVisibility()\r\n\r\n        // Notify subview\r\n        subview.didAddToView(this)\r\n\r\n    }\r\n\r\n    /** @private Called before the view is added to a parent view */\r\n    willAddToView(parent) {\r\n\r\n    }\r\n\r\n    /** @private Called after the view is added to a parent view */\r\n    didAddToView(parent) {\r\n\r\n        // Call layout\r\n        this.layout()\r\n\r\n    }\r\n\r\n    /** @private Called when the layout changed */\r\n    layout() {\r\n\r\n        // Reposition\r\n        this.setProperty(\"x\", this._x + this.parentOffsetX)\r\n        this.setProperty(\"y\", this._y + this.parentOffsetY)\r\n\r\n        // Call on subviews\r\n        for (var v of this.subviews)\r\n            v.layout()\r\n\r\n    }\r\n\r\n    /** Debug function. Logs the view heirarchy to the console. */\r\n    logViewTree(depth = 0) {\r\n\r\n        // Log ourselves\r\n        var str = \"\"\r\n        for (var i = 0 ; i < depth ; i++) str += \"-\"\r\n        str += \" \" + this.description\r\n        console.log(str)\r\n\r\n        // Log children\r\n        for (var child of this.subviews)\r\n            child.logViewTree(depth + 1)\r\n\r\n    }\r\n\r\n    /** Object description */\r\n    get description() {\r\n        return `${this.constructor.name} (${this.type}) : X=${this.x} Y=${this.y} Width=${this.width} Height=${this.height} Subviews=${this.subviews.length} OverlayID=${this._overlay}`\r\n    }\r\n\r\n}\r\n",
+    "static": true,
+    "longname": "C:/Users/jjv360/Personal/Interesting Stuff/High Fidelity/HF UI/src/View.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 70,
+    "kind": "class",
+    "name": "View",
+    "memberof": "src/View.js",
+    "static": true,
+    "longname": "src/View.js~View",
+    "access": "public",
+    "export": true,
+    "importPath": "hf-ui/src/View.js",
+    "importStyle": "View",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 71,
+    "kind": "get",
+    "name": "type",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#type",
+    "access": "public",
+    "description": "The High Fidelity overlay type.",
+    "lineNumber": 11,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#constructor",
+    "access": "public",
+    "description": "Constructor",
+    "lineNumber": 14
+  },
+  {
+    "__docId__": 73,
+    "kind": "member",
+    "name": "options",
+    "memberof": "src/View.js~View",
+    "static": false,
+    "longname": "src/View.js~View#options",
+    "access": "private",
+    "description": null,
+    "lineNumber": 17,
+    "type": {
+      "types": [
+        "{\"x\": *, \"y\": *, \"width\": number, \"height\": number, \"backgroundAlpha\": *, \"backgroundColor\": *, \"visible\": boolean, \"alpha\": number}"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "member",
+    "name": "_x",
+    "memberof": "src/View.js~View",
+    "static": false,
+    "longname": "src/View.js~View#_x",
+    "access": "private",
+    "description": null,
+    "lineNumber": 40,
+    "undocument": true,
+    "type": {
+      "types": [
+        "number"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "member",
+    "name": "_y",
+    "memberof": "src/View.js~View",
+    "static": false,
+    "longname": "src/View.js~View#_y",
+    "access": "private",
+    "description": null,
+    "lineNumber": 41,
+    "undocument": true,
+    "type": {
+      "types": [
+        "number"
+      ]
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "member",
+    "name": "subviews",
+    "memberof": "src/View.js~View",
+    "static": false,
+    "longname": "src/View.js~View#subviews",
+    "access": "public",
+    "description": "Child views",
+    "lineNumber": 44,
+    "type": {
+      "types": [
+        "*[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "member",
+    "name": "parentView",
+    "memberof": "src/View.js~View",
+    "static": false,
+    "longname": "src/View.js~View#parentView",
+    "access": "public",
+    "description": "The parent view",
+    "lineNumber": 47,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "member",
+    "name": "shouldBeVisible",
+    "memberof": "src/View.js~View",
+    "static": false,
+    "longname": "src/View.js~View#shouldBeVisible",
+    "access": "private",
+    "description": null,
+    "lineNumber": 53,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "method",
+    "name": "getProperty",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#getProperty",
+    "access": "private",
+    "description": null,
+    "lineNumber": 58,
+    "params": [
+      {
+        "name": "name",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "method",
+    "name": "setProperty",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#setProperty",
+    "access": "private",
+    "description": null,
+    "lineNumber": 63,
+    "params": [
+      {
+        "name": "name",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 81,
+    "kind": "get",
+    "name": "x",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#x",
+    "access": "public",
+    "description": "Layout",
+    "lineNumber": 78,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 82,
+    "kind": "get",
+    "name": "y",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#y",
+    "access": "public",
+    "description": null,
+    "lineNumber": 79,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "get",
+    "name": "width",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#width",
+    "access": "public",
+    "description": null,
+    "lineNumber": 80,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 84,
+    "kind": "get",
+    "name": "height",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#height",
+    "access": "public",
+    "description": null,
+    "lineNumber": 81,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "set",
+    "name": "x",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#x",
+    "access": "public",
+    "description": null,
+    "lineNumber": 82,
+    "undocument": true
+  },
+  {
+    "__docId__": 87,
+    "kind": "set",
+    "name": "y",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#y",
+    "access": "public",
+    "description": null,
+    "lineNumber": 83,
+    "undocument": true
+  },
+  {
+    "__docId__": 89,
+    "kind": "set",
+    "name": "width",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#width",
+    "access": "public",
+    "description": null,
+    "lineNumber": 84,
+    "undocument": true
+  },
+  {
+    "__docId__": 90,
+    "kind": "set",
+    "name": "height",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#height",
+    "access": "public",
+    "description": null,
+    "lineNumber": 85,
+    "undocument": true
+  },
+  {
+    "__docId__": 91,
+    "kind": "get",
+    "name": "parentOffsetX",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#parentOffsetX",
+    "access": "private",
+    "description": null,
+    "lineNumber": 88,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "get",
+    "name": "parentOffsetY",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#parentOffsetY",
+    "access": "private",
+    "description": null,
+    "lineNumber": 99,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "get",
+    "name": "backgroundAlpha",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#backgroundAlpha",
+    "access": "public",
+    "description": "Background opacity",
+    "lineNumber": 110,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 94,
+    "kind": "set",
+    "name": "backgroundAlpha",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#backgroundAlpha",
+    "access": "public",
+    "description": null,
+    "lineNumber": 111,
+    "undocument": true
+  },
+  {
+    "__docId__": 95,
+    "kind": "get",
+    "name": "backgroundColor",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#backgroundColor",
+    "access": "public",
+    "description": "Background color",
+    "lineNumber": 114,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 96,
+    "kind": "set",
+    "name": "backgroundColor",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#backgroundColor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 115,
+    "undocument": true
+  },
+  {
+    "__docId__": 97,
+    "kind": "get",
+    "name": "color",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#color",
+    "access": "public",
+    "description": "Foreground color",
+    "lineNumber": 118,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "set",
+    "name": "color",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#color",
+    "access": "public",
+    "description": null,
+    "lineNumber": 119,
+    "undocument": true
+  },
+  {
+    "__docId__": 99,
+    "kind": "get",
+    "name": "alpha",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#alpha",
+    "access": "public",
+    "description": "Opacity of entire element",
+    "lineNumber": 122,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 100,
+    "kind": "set",
+    "name": "alpha",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#alpha",
+    "access": "public",
+    "description": null,
+    "lineNumber": 123,
+    "undocument": true
+  },
+  {
+    "__docId__": 101,
+    "kind": "get",
+    "name": "borderWidth",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#borderWidth",
+    "access": "public",
+    "description": "Border",
+    "lineNumber": 126,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "set",
+    "name": "borderWidth",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#borderWidth",
+    "access": "public",
+    "description": null,
+    "lineNumber": 127,
+    "undocument": true
+  },
+  {
+    "__docId__": 103,
+    "kind": "get",
+    "name": "borderAlpha",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#borderAlpha",
+    "access": "public",
+    "description": null,
+    "lineNumber": 128,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 104,
+    "kind": "set",
+    "name": "borderAlpha",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#borderAlpha",
+    "access": "public",
+    "description": null,
+    "lineNumber": 129,
+    "undocument": true
+  },
+  {
+    "__docId__": 105,
+    "kind": "get",
+    "name": "borderColor",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#borderColor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 130,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 106,
+    "kind": "set",
+    "name": "borderColor",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#borderColor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 131,
+    "undocument": true
+  },
+  {
+    "__docId__": 107,
+    "kind": "get",
+    "name": "radius",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#radius",
+    "access": "public",
+    "description": "Corner radius",
+    "lineNumber": 134,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 108,
+    "kind": "set",
+    "name": "radius",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#radius",
+    "access": "public",
+    "description": null,
+    "lineNumber": 135,
+    "undocument": true
+  },
+  {
+    "__docId__": 109,
+    "kind": "method",
+    "name": "show",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#show",
+    "access": "public",
+    "description": "Shows the overlay",
+    "lineNumber": 138,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 111,
+    "kind": "method",
+    "name": "hide",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#hide",
+    "access": "public",
+    "description": "Remove overlay",
+    "lineNumber": 151,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 113,
+    "kind": "method",
+    "name": "close",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#close",
+    "access": "public",
+    "description": "Remove overlay",
+    "lineNumber": 164,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 114,
+    "kind": "method",
+    "name": "remove",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#remove",
+    "access": "public",
+    "description": "Remove overlay",
+    "lineNumber": 169,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 115,
+    "kind": "get",
+    "name": "visible",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#visible",
+    "access": "public",
+    "description": "True if the overlay is visible",
+    "lineNumber": 174,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 116,
+    "kind": "set",
+    "name": "visible",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#visible",
+    "access": "public",
+    "description": "Show or hide the overlay",
+    "lineNumber": 179
+  },
+  {
+    "__docId__": 117,
+    "kind": "get",
+    "name": "overlayShouldBeVisible",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#overlayShouldBeVisible",
+    "access": "private",
+    "description": null,
+    "lineNumber": 184,
+    "type": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 118,
+    "kind": "method",
+    "name": "updateOverlayVisibility",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#updateOverlayVisibility",
+    "access": "private",
+    "description": null,
+    "lineNumber": 198,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 119,
+    "kind": "member",
+    "name": "_overlay",
+    "memberof": "src/View.js~View",
+    "static": false,
+    "longname": "src/View.js~View#_overlay",
+    "access": "private",
+    "description": null,
+    "lineNumber": 205,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 121,
+    "kind": "method",
+    "name": "addSubview",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#addSubview",
+    "access": "public",
+    "description": "Add a subview",
+    "lineNumber": 222,
+    "params": [
+      {
+        "name": "subview",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 122,
+    "kind": "method",
+    "name": "willAddToView",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#willAddToView",
+    "access": "private",
+    "description": null,
+    "lineNumber": 246,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 123,
+    "kind": "method",
+    "name": "didAddToView",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#didAddToView",
+    "access": "private",
+    "description": null,
+    "lineNumber": 251,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 124,
+    "kind": "method",
+    "name": "layout",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#layout",
+    "access": "private",
+    "description": null,
+    "lineNumber": 259,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 125,
+    "kind": "method",
+    "name": "logViewTree",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#logViewTree",
+    "access": "public",
+    "description": "Debug function. Logs the view heirarchy to the console.",
+    "lineNumber": 272,
+    "params": [
+      {
+        "name": "depth",
+        "optional": true,
+        "types": [
+          "number"
+        ],
+        "defaultRaw": 0,
+        "defaultValue": "0"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 126,
+    "kind": "get",
+    "name": "description",
+    "memberof": "src/View.js~View",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/View.js~View#description",
+    "access": "public",
+    "description": "Object description",
+    "lineNumber": 287,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "# High Fidelity: User Interface kit\r\n\r\nThis is a collection of APIs to make it easier to create Overlays in [High Fidelity](https://highfidelity.com).\r\n\r\n> NOTE: This package uses JavaScript features not natively available in High Fidelity,\r\n> so you'll need to webpack your script. See an example [here](https://github.com/jjv360/HF-Starter).\r\n\r\n## Documentation\r\n\r\nYou can see the documentation [here](./docs/index.html).\r\nAn example script using this library can be seen [here](https://github.com/jjv360/HF-Zone-Message).\r\n\r\n## Features\r\n\r\n- [x] View class\r\n- [ ] Animation\r\n- [x] Label\r\n - [ ] Text wrapping\r\n- [ ] Image\r\n- [ ] Button\r\n- [ ] Text field\r\n- [ ] Window\r\n - [ ] Drag around\r\n - [ ] Window chrome (title, close button, etc)\r\n",
+    "longname": "C:\\Users\\jjv360\\Personal\\Interesting Stuff\\High Fidelity\\HF UI\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"hf-ui\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A User Interface kit for High Fidelity using the Overlay system.\",\n  \"main\": \"src/index.js\",\n  \"scripts\": {\n      \"build-docs\": \"esdoc\",\n      \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [\n    \"hifi\",\n    \"high\",\n    \"fidelity\",\n    \"ui\",\n    \"user\",\n    \"interface\",\n    \"kit\"\n  ],\n  \"author\": \"jjv360\",\n  \"license\": \"ISC\",\n  \"devDependencies\": {\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\"\n  }\n}\n",
+    "longname": "C:\\Users\\jjv360\\Personal\\Interesting Stuff\\High Fidelity\\HF UI\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
