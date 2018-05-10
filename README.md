@@ -15,10 +15,10 @@ An example script using this library can be seen [here](https://github.com/jjv36
 - [x] View class
 - [ ] Animation
 - [x] Label
- - [ ] Text wrapping
+  - [ ] Text wrapping
 - [ ] Image
 - [ ] Button
 - [ ] Text field
 - [ ] Window
- - [ ] Drag around
- - [ ] Window chrome (title, close button, etc)
+  - [ ] Drag around
+  - [ ] Window chrome (title, close button, etc)
