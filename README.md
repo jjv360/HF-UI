@@ -16,7 +16,7 @@ An example script using this library can be seen [here](https://github.com/jjv36
 - [ ] Animation
 - [x] Label
   - [ ] Text wrapping
-- [ ] Image
+- [x] Image
 - [ ] Button
 - [ ] Text field
 - [ ] Window

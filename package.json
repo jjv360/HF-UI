@@ -4,9 +4,9 @@
   "description": "A User Interface kit for High Fidelity using the Overlay system.",
   "main": "src/index.js",
   "scripts": {
-      "build-docs": "esdoc",
-      "prepublishOnly": "build-docs",
-      "test": "echo \"Error: no test specified\" && exit 1"
+    "build-docs": "esdoc",
+    "prepublishOnly": "build-docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "hifi",
@@ -22,5 +22,8 @@
   "devDependencies": {
     "esdoc": "^1.1.0",
     "esdoc-standard-plugin": "^1.0.0"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^17.2.0"
   }
 }
