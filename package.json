@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
       "build-docs": "esdoc",
-      "prepare": "build-docs",
+      "prepublishOnly": "build-docs",
       "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
