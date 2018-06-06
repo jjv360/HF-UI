@@ -5,6 +5,8 @@
 // - Overlay types: https://github.com/highfidelity/hifi/blob/8e214d8ee86f4ea11c5494f0159aa1d45523e895/interface/src/ui/overlays/Overlays.cpp#L178
 // - Overlay properties: https://github.com/highfidelity/hifi/blob/8e214d8ee86f4ea11c5494f0159aa1d45523e895/interface/src/ui/overlays/Overlay.cpp#L58
 
+// import PointerEvents from './PointerEvents'
+
 export default class View {
 
     /** The High Fidelity overlay type. */
@@ -137,10 +139,6 @@ export default class View {
     /** Shows the overlay */
     show() {
 
-        // Check if shown
-        if (this.shouldBeVisible)
-            return
-
         // Show overlay
         this.shouldBeVisible = true
         this.updateOverlayVisibility()
@@ -149,10 +147,6 @@ export default class View {
 
     /** Remove overlay */
     hide() {
-
-        // Check if hidden
-        if (!this.shouldBeVisible)
-            return
 
         // Remove overlay
         this.shouldBeVisible = false
@@ -204,17 +198,48 @@ export default class View {
             this.options.parentID = this.parentView && this.parentView._overlay || null
             this._overlay = Overlays.addOverlay(this.type, this.options)
 
+            // Notify view
+            this.onVisible()
+
         } else if (!this.overlayShouldBeVisible && this._overlay) {
 
             // Overlay should be removed
             Overlays.deleteOverlay(this._overlay)
             this._overlay = null
 
+            // Notify view
+            this.onHidden()
+
         }
+
+        // // If this is a root view, create a touch interaction handler
+        // var shouldHaveTouchHandler = this._overlay && !this.parentView
+        // if (shouldHaveTouchHandler && !this.touchHandler) {
+        //
+        //     // Create it
+        //     this.touchHandler = new PointerEvents(this)
+        //
+        // } else {
+        //
+        //     // Remove it
+        //     this.touchHandler && this.touchHandler.free()
+        //     this.touchHandler = null
+        //
+        // }
 
         // Update child visibility
         for (var child of this.subviews)
             child.updateOverlayVisibility()
+
+    }
+
+    /** Called when the overlay is added to the screen */
+    onVisible() {
+
+    }
+
+    /** Called when the overlay is removed from the screen */
+    onHidden() {
 
     }
 
