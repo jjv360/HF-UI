@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/status-stale-orange.svg)
+
 # High Fidelity: User Interface kit
 
 This is a collection of APIs to make it easier to create Overlays in [High Fidelity](https://highfidelity.com).
